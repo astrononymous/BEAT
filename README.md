@@ -8,7 +8,7 @@ Thanks to Daniel Shiffman for making such inspirational content.
 This sketch was written in javascript.  There are three .js files attached containing the art: 
 
   1: BEAT_unedited.js: an unedited version that i considered finished and left alone the moment that i had generated the gif frames that i needed.
-    -you'll probably notice there's a ton of superfluous code and snippets left over from other projects.  They aren't used, but are present just because i tend       to usde completed projects as a boilerplate for new projects
+    -you'll probably notice there's a ton of superfluous code and snippets left over from other projects.  They aren't used, but are present just because i tend       to usde completed projects as a boilerplate for new projects 
   2: BEAT_clean.js: an edited version removing all comments and superfluous code, just containing the functional portion of the art code  
   3: BEAT_commented.js: a commented version which explains a little bit about each section of the code.
 
