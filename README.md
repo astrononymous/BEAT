@@ -11,6 +11,7 @@ This sketch was written in javascript.  There are three .js files attached conta
     -you'll probably notice there's a ton of superfluous code and snippets left over from other projects.  They aren't used, but are present just because i tend       to usde completed projects as a boilerplate for new projects 
     
   2: BEAT_clean.js: an edited version removing all comments and superfluous code, just containing the functional portion of the art code  
+  
   3: BEAT_commented.js: a commented version which explains a little bit about each section of the code.
 
 I ran this project through a node.js express server because some of my sketches require modules that can't be loaded through localhost.  This project doesn't contain any such modules, but i haven't been able to get it to run locally with a quick try so i'm just leaving the server code here too.
